@@ -8,7 +8,7 @@
 
 import requests
 
-__ENDPOINT_URL__: str = "https://cpmnuker.trese.xeno/api"
+__ENDPOINT_URL__: str = "https://cpmnuker_bot/api"
 
 class CPMNuker:
     def __init__(self, access_key) -> None:
